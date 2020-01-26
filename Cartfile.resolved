@@ -1,0 +1,4 @@
+github "horsejockey/Actor-iOS" "3.0.0"
+github "horsejockey/MessageRouter-iOS" "1.1.1"
+github "horsejockey/PureStateMachine-iOS" "1.0.2"
+github "horsejockey/Reactor-iOS" "1.1.1"
