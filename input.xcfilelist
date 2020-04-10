@@ -1,4 +1,0 @@
-$(SRCROOT)/Carthage/Build/iOS/Actor.framework
-$(SRCROOT)/Carthage/Build/iOS/MessageRouter.framework
-$(SRCROOT)/Carthage/Build/iOS/PureStateMachine.framework
-$(SRCROOT)/Carthage/Build/iOS/Reactor.framework
